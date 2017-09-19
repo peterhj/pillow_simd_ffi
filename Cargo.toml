@@ -11,3 +11,6 @@ path = "src/lib.rs"
 bindgen = "*"
 gcc = "*"
 walkdir = "*"
+
+[dependencies]
+lazy_static = "*"
